@@ -12,7 +12,7 @@ Welcome to my project! Check out the repository statistics below.
 
 ## Description
 
-This is my first profile trial.
+This is my first profile trial with customized branch.
 ## Role
 
 Solution Consultant
