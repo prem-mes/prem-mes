@@ -12,8 +12,7 @@ Welcome to my project! Check out the repository statistics below.
 
 ## Description
 
-This is a brief description of what your project does.
+This is my first profile trial.
+## Role
 
-## Installation
-
-Instructions on how to install and use your project.
+Solution Consultant
